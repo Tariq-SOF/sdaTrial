@@ -1,2 +1,5 @@
-package Homework.Day06;public class C02 {
+package Homework.Day06;
+
+public class C02 {
+
 }

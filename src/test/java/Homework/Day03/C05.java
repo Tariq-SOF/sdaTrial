@@ -33,7 +33,7 @@ public class C05 {
         driver.findElement(By.xpath("//button[@data-id='sign-in-form__submit-btn']")).click();
 
         //Relative path
-        Thread.sleep(400);
+//        Thread.sleep(400);
 
     }
 }

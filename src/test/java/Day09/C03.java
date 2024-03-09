@@ -1,2 +1,4 @@
-package Day09;public class C03 {
+package Day09;
+
+public class C03 {
 }
