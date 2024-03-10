@@ -21,7 +21,7 @@ public class C03 extends TestBase {
 //    Verify if the file downloaded successfully.
 
     @Test
-    public void testt (){
+    public void tess (){
         //    Go to URL: https://opensource-demo.orangehrmlive.com/
         driver.get("https://opensource-demo.orangehrmlive.com/");
 
